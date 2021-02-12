@@ -1,0 +1,1 @@
+{"ast":null,"code":"import './styles/global.css';","map":{"version":3,"sources":["C:/Users/renan/OneDrive/Área de Trabalho/SSR-NextJS/src/pages/_app.js"],"names":[],"mappings":"AAAA,OAAO,qBAAP","sourcesContent":["import './styles/global.css';"]},"metadata":{},"sourceType":"module"}
